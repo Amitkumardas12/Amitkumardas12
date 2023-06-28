@@ -11,7 +11,7 @@
 
 <img align="right" alt="coding" width=400 src="https://www.lambdatest.com/resources/images/Software-Test-Management.gif">
 <p align="left">
-<a href="https://linkedin.com/in/amit kumar das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit kumar das" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/amit-kumar-das-675bb8234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amit-kumar-das-675bb8234/" height="30" width="40" /></a>
 <a href="https://instagram.com/amit__akd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amit__akd" height="30" width="40" /></a>
 </p>
 
